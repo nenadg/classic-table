@@ -1,0 +1,534 @@
+[
+	{
+		"company": "Google",
+		"symbol": "GOOGL",
+		"price": 2850.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Microsoft",
+		"symbol": "MSFT",
+		"price": 305.22,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Apple",
+		"symbol": "AAPL",
+		"price": 150.68,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Amazon",
+		"symbol": "AMZN",
+		"price": 145.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Facebook",
+		"symbol": "META",
+		"price": 340.15,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Tesla",
+		"symbol": "TSLA",
+		"price": 705.67,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Netflix",
+		"symbol": "NFLX",
+		"price": 540.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Adobe",
+		"symbol": "ADBE",
+		"price": 630.45,
+		"date": "2023-07-16"
+	},
+	{ "company": "IBM", "symbol": "IBM", "price": 142.2, "date": "2023-07-16" },
+	{ "company": "Intel", "symbol": "INTC", "price": 52.1, "date": "2023-07-16" },
+	{
+		"company": "Cisco",
+		"symbol": "CSCO",
+		"price": 56.43,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Oracle",
+		"symbol": "ORCL",
+		"price": 88.12,
+		"date": "2023-07-16"
+	},
+	{ "company": "HP", "symbol": "HPQ", "price": 29.88, "date": "2023-07-16" },
+	{ "company": "Dell", "symbol": "DELL", "price": 52.67, "date": "2023-07-16" },
+	{
+		"company": "Nvidia",
+		"symbol": "NVDA",
+		"price": 195.0,
+		"date": "2023-07-16"
+	},
+	{ "company": "AMD", "symbol": "AMD", "price": 95.12, "date": "2023-07-16" },
+	{
+		"company": "Qualcomm",
+		"symbol": "QCOM",
+		"price": 143.0,
+		"date": "2023-07-16"
+	},
+	{ "company": "SAP", "symbol": "SAP", "price": 127.0, "date": "2023-07-16" },
+	{
+		"company": "Salesforce",
+		"symbol": "CRM",
+		"price": 220.3,
+		"date": "2023-07-16"
+	},
+	{ "company": "Zoom", "symbol": "ZM", "price": 305.4, "date": "2023-07-16" },
+	{
+		"company": "Slack",
+		"symbol": "WORK",
+		"price": 45.78,
+		"date": "2023-07-16"
+	},
+	{ "company": "Uber", "symbol": "UBER", "price": 50.12, "date": "2023-07-16" },
+	{ "company": "Lyft", "symbol": "LYFT", "price": 15.5, "date": "2023-07-16" },
+	{
+		"company": "Airbnb",
+		"symbol": "ABNB",
+		"price": 148.5,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Spotify",
+		"symbol": "SPOT",
+		"price": 250.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Twitter",
+		"symbol": "TWTR",
+		"price": 70.45,
+		"date": "2023-07-16"
+	},
+	{ "company": "Snap", "symbol": "SNAP", "price": 68.12, "date": "2023-07-16" },
+	{
+		"company": "Pinterest",
+		"symbol": "PINS",
+		"price": 60.22,
+		"date": "2023-07-16"
+	},
+	{ "company": "eBay", "symbol": "EBAY", "price": 72.34, "date": "2023-07-16" },
+	{
+		"company": "PayPal",
+		"symbol": "PYPL",
+		"price": 283.45,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Square",
+		"symbol": "SQ",
+		"price": 243.67,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Stripe",
+		"symbol": "STRIP",
+		"price": 420.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Shopify",
+		"symbol": "SHOP",
+		"price": 1482.56,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "TikTok",
+		"symbol": "TIKTOK",
+		"price": 110.23,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Reddit",
+		"symbol": "REDDIT",
+		"price": 75.45,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Dropbox",
+		"symbol": "DBX",
+		"price": 31.45,
+		"date": "2023-07-16"
+	},
+	{ "company": "Box", "symbol": "BOX", "price": 27.1, "date": "2023-07-16" },
+	{ "company": "WeWork", "symbol": "WE", "price": 9.5, "date": "2023-07-16" },
+	{
+		"company": "SpaceX",
+		"symbol": "SPACEX",
+		"price": 420.69,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Blue Origin",
+		"symbol": "BLUE",
+		"price": 312.45,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Palantir",
+		"symbol": "PLTR",
+		"price": 27.15,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "LinkedIn",
+		"symbol": "LNKD",
+		"price": 200.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "GitHub",
+		"symbol": "GITHUB",
+		"price": 150.75,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Bitbucket",
+		"symbol": "BIT",
+		"price": 45.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Atlassian",
+		"symbol": "TEAM",
+		"price": 325.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Heroku",
+		"symbol": "HEROKU",
+		"price": 80.5,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "DigitalOcean",
+		"symbol": "DOCN",
+		"price": 48.45,
+		"date": "2023-07-16"
+	},
+	{ "company": "Vimeo", "symbol": "VMEO", "price": 45.0, "date": "2023-07-16" },
+	{
+		"company": "Twilio",
+		"symbol": "TWLO",
+		"price": 360.78,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "MongoDB",
+		"symbol": "MDB",
+		"price": 390.34,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Snowflake",
+		"symbol": "SNOW",
+		"price": 220.67,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Databricks",
+		"symbol": "DB",
+		"price": 150.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Cloudera",
+		"symbol": "CLDR",
+		"price": 15.45,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Hortonworks",
+		"symbol": "HDP",
+		"price": 20.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Tableau",
+		"symbol": "DATA",
+		"price": 180.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Splunk",
+		"symbol": "SPLK",
+		"price": 150.34,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Workday",
+		"symbol": "WDAY",
+		"price": 260.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "ServiceNow",
+		"symbol": "NOW",
+		"price": 535.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Zendesk",
+		"symbol": "ZEN",
+		"price": 150.45,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "DocuSign",
+		"symbol": "DOCU",
+		"price": 260.22,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Asana",
+		"symbol": "ASAN",
+		"price": 120.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Smartsheet",
+		"symbol": "SMAR",
+		"price": 75.34,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Monday.com",
+		"symbol": "MNDY",
+		"price": 150.78,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Trello",
+		"symbol": "TRELLO",
+		"price": 45.5,
+		"date": "2023-07-16"
+	},
+	{ "company": "Miro", "symbol": "MIRO", "price": 35.0, "date": "2023-07-16" },
+	{
+		"company": "Lucidchart",
+		"symbol": "LUCID",
+		"price": 25.45,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Canva",
+		"symbol": "CANVA",
+		"price": 300.12,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Figma",
+		"symbol": "FIGMA",
+		"price": 200.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "InVision",
+		"symbol": "INVSN",
+		"price": 50.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Sketch",
+		"symbol": "SKETCH",
+		"price": 60.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Balsamiq",
+		"symbol": "BALS",
+		"price": 20.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Marvel",
+		"symbol": "MARVEL",
+		"price": 30.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Framer",
+		"symbol": "FRAMER",
+		"price": 40.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Adobe XD",
+		"symbol": "XD",
+		"price": 300.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Proto.io",
+		"symbol": "PROTO",
+		"price": 15.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Axure",
+		"symbol": "AXURE",
+		"price": 35.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Justinmind",
+		"symbol": "JSTMD",
+		"price": 25.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Origami Studio",
+		"symbol": "ORGM",
+		"price": 45.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Principle",
+		"symbol": "PRNCP",
+		"price": 40.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Flinto",
+		"symbol": "FLNTO",
+		"price": 30.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "ProtoPie",
+		"symbol": "PPIE",
+		"price": 20.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Mockplus",
+		"symbol": "MKPLS",
+		"price": 15.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Pidoco",
+		"symbol": "PIDOCO",
+		"price": 10.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Wireframe.cc",
+		"symbol": "WIRE",
+		"price": 5.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Hotjar",
+		"symbol": "HOTJAR",
+		"price": 12.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Crazy Egg",
+		"symbol": "CRZY",
+		"price": 10.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Optimizely",
+		"symbol": "OPTY",
+		"price": 15.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Unbounce",
+		"symbol": "UNBNCE",
+		"price": 20.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Instapage",
+		"symbol": "INSTA",
+		"price": 10.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Leadpages",
+		"symbol": "LEAD",
+		"price": 8.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Mailchimp",
+		"symbol": "MC",
+		"price": 25.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Constant Contact",
+		"symbol": "CTCT",
+		"price": 15.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "AWeber",
+		"symbol": "AWEBR",
+		"price": 12.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "GetResponse",
+		"symbol": "GTRSP",
+		"price": 18.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Campaign Monitor",
+		"symbol": "CMPGN",
+		"price": 22.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "SendGrid",
+		"symbol": "SEND",
+		"price": 28.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "HubSpot",
+		"symbol": "HUBS",
+		"price": 475.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Marketo",
+		"symbol": "MKTO",
+		"price": 225.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Pardot",
+		"symbol": "PARDT",
+		"price": 180.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "ActiveCampaign",
+		"symbol": "ACTCMP",
+		"price": 130.0,
+		"date": "2023-07-16"
+	},
+	{
+		"company": "Klaviyo",
+		"symbol": "KLAV",
+		"price": 110.0,
+		"date": "2023-07-16"
+	},
+	{ "company": "Drip", "symbol": "DRIP", "price": 100.0, "date": "2023-07-16" }
+]
