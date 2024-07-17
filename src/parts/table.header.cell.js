@@ -10,34 +10,34 @@ const HEADERSTYLE = `display: flex;
                     margin: 0px;`;
 
 const TableHeaderCell = {
-	name: "TableHeaderCell",
-	type: "component",
-	config: {
-		th: {
-			children: [
-				{
-					p: {
-						style: HEADERSTYLE,
-						children: [
-							{
-								p: {
-									innerText: "{*:header_text}"
-								}
-							},
-							{
-								TableHeaderTools: {
-									meta: {
-										sort_icon: "{*:sort_icon}",
-										filter: "{*:filter}"
-									}
-								}
-							}
-						]
-					}
-				}
-			]
-		}
-	}
+  name: "TableHeaderCell",
+  type: "component",
+  config: {
+    th: {
+      children: [
+        {
+          p: {
+            style: HEADERSTYLE,
+            children: [
+              {
+                p: {
+                  innerText: "{*:header_text}"
+                }
+              },
+              {
+                TableHeaderTools: {
+                  meta: {
+                    sort_icon: "{*:sort_icon}",
+                    filter: "{*:filter}"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
 };
 
 export default TableHeaderCell;
